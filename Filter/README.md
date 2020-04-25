@@ -4,15 +4,15 @@
 
 ```
 #网易云音乐分流
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/NeteaseMusic.list, tag=NeteaseMusic, force-policy=网易云音乐, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/NeteaseMusic.list, tag=NeteaseMusic, force-policy=网易云音乐, enabled=true
 #科学上网分流
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/Unbreak.list, tag=Unbreak, enabled=true
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/Advertising.list, tag=Advertising, enabled=true
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/Hijacking.list, tag=Hijacking, enabled=true
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/ForeignMedia.list, tag=ForeignMedia, enabled=true
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/DomesticMedia.list, tag=DomesticMedia, enabled=true
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/Global.list, tag=Global, enabled=true
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/filter/China.list, tag=China, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/Unbreak.list, tag=Unbreak, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/Advertising.list, tag=Advertising, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/Hijacking.list, tag=Hijacking, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/ForeignMedia.list, tag=ForeignMedia, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/DomesticMedia.list, tag=DomesticMedia, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/Global.list, tag=Global, enabled=true
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/Filter/China.list, tag=China, enabled=true
 ```
 
 by Rogershan
