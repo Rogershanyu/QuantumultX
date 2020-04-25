@@ -1,0 +1,6 @@
+# (DomesticMedia)
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,REJECT
+# > bilibili
+DOMAIN,api.bilibili.com,REJECT
+DOMAIN,upos-hz-mirrorakam.akamaized.net,REJECT
