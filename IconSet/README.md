@@ -1,3 +1,3 @@
 ```
-https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/IconSet/5iTV.png
+https://raw.githubusercontent.com/Rogershanyu/QuantumultX/master/IconSet/xx.png
 ```
