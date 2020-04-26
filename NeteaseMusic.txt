@@ -1,3 +1,1 @@
-http=35.189.181.101:19980, fast-open=false, udp-relay=false, tag=网易云音乐台湾节点
-http=34.96.223.182:19980, fast-open=false, udp-relay=false, tag=网易云音乐香港节点
 http=47.103.208.66:19980, fast-open=false, udp-relay=false, tag=网易云音乐上海节点
