@@ -1,2 +1,2 @@
-vmess = 34.96.239.155:36467, method=chacha20-ietf-poly1305, password=199d0d50-e437-4dc0-8793-20f8ff9449a3, tag=GCS HK01
-vmess = 34.92.52.54:52065, method=chacha20-ietf-poly1305, password=464e6b89-2183-4a92-bead-de25de1e3e23, tag=GCS HK02
+vmess = 34.96.239.155:36467, method=none, password=199d0d50-e437-4dc0-8793-20f8ff9449a3, fast-open=false, udp-relay=false, tag=GCS HK01
+vmess = 34.92.52.54:52065, method=none, password=464e6b89-2183-4a92-bead-de25de1e3e23, fast-open=false, udp-relay=false, tag=GCS HK02
