@@ -1,3 +1,3 @@
-http=34.96.223.182:19980, fast-open=false, udp-relay=false, tag=网易云音乐香港节点
-http=47.103.208.66:19980, fast-open=false, udp-relay=false, tag=网易云音乐上海节点
-http=shan.kim:4567, fast-open=false, udp-relay=false, tag=网易云音乐广州节点
+http=34.96.223.182:19980, fast-open=false, udp-relay=false, tag=网易云音乐香港(流量收费)
+http=47.103.208.66:19980, fast-open=false, udp-relay=false, tag=网易云音乐上海(准备过期)
+http=shan.kim:4567, fast-open=false, udp-relay=false, tag=网易云音乐广州节点(晚上12点断网)
